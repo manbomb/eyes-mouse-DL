@@ -1,5 +1,7 @@
 # Eyes Mouse (with Deep Learning)
 
+A virtual mouse controled by the eyes.
+
 ## Why create another repo?
 
 Because I am studying DL applied to CV and I do not want to mix the two technologies in the same repository, haar cascade and DNN's.
