@@ -1,2 +1,1 @@
-# eyes-mouse-ML
-The same app, other technology
+# Eyes Mouse (with Deep Learning)
